@@ -2,11 +2,6 @@
 
 > Automatically grouping 95,837 songs into meaningful clusters using unsupervised machine learning — without any genre labels.
 
-![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-orange?logo=scikit-learn)
-![Pandas](https://img.shields.io/badge/Pandas-1.3+-green?logo=pandas)
-![License](https://img.shields.io/badge/License-MIT-yellow)
-
 ---
 
 ## 📌 Project Overview
