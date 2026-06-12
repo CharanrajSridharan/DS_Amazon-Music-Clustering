@@ -203,16 +203,4 @@ from scipy.cluster.hierarchy import dendrogram       # Dendrogram
 
 ---
 
-## 🤝 Acknowledgements
 
-- **GUVI & HCL** — Project specification and guidance
-- **Spotify Audio Features** — Dataset feature definitions reference
-- **scikit-learn documentation** — Algorithm implementations
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License — see the LICENSE file for details.
-
----
